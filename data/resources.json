@@ -1,0 +1,14 @@
+[
+  {"title":"Graph Algorithms Lab","subject":"DSA","description":"Practice graphs shortest paths breadth first search Dijkstra heaps and complexity.","copies":2},
+  {"title":"Python Foundations Workbook","subject":"Programming","description":"Python functions classes dictionaries testing and file handling exercises.","copies":3},
+  {"title":"Probability for Learning","subject":"Mathematics","description":"Probability conditional probability Bayes theorem distributions and expectation.","copies":2},
+  {"title":"Text Classification Notebook","subject":"Machine Learning","description":"Python text classification naive Bayes probability tokenization precision recall and evaluation.","copies":1},
+  {"title":"Relational Design Practice","subject":"DBMS","description":"SQL relational schema normalization foreign keys joins transactions and indexes.","copies":2},
+  {"title":"Search and Recommendation Lab","subject":"AI","description":"Text search recommendation TF IDF cosine similarity vectors and ranking.","copies":1},
+  {"title":"Operating Systems Exercises","subject":"OS","description":"Processes threads scheduling deadlocks synchronization memory and paging.","copies":2},
+  {"title":"Algorithm Design Workbook","subject":"DSA","description":"Graphs dynamic programming greedy algorithms heaps sorting and complexity.","copies":2},
+  {"title":"Linear Algebra for Models","subject":"Mathematics","description":"Vectors matrices dot products norms eigenvalues and machine learning.","copies":1},
+  {"title":"Database Transactions Lab","subject":"DBMS","description":"SQL transactions isolation concurrency locks indexes and integrity constraints.","copies":1},
+  {"title":"Model Evaluation Workshop","subject":"Machine Learning","description":"Classification precision recall confusion matrices validation leakage baselines and probability calibration.","copies":2},
+  {"title":"AI Search Methods","subject":"AI","description":"Graphs heuristic search A star shortest paths admissibility and state spaces.","copies":1}
+]

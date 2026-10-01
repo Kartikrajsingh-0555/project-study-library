@@ -24,6 +24,8 @@ Acquire a write reservation before checking stock. Validate the member and resou
 
 Returns update history instead of deleting the loan. A resource becomes overdue after its due date, not on the due date itself.
 
-## Search
+## Planned search
 
 Index the title, subject and description. Rank matching resources using normalised TF-IDF vectors. Recommendations use another resource's metadata as the query and exclude that source from the results.
+
+Search and overdue filtering are not implemented in the current CLI. Due dates and full loan history are stored for the reporting milestone.
